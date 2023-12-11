@@ -230,7 +230,7 @@ logo ="""
    ║    Author                   • \33[1;38mSM-ISHAK ]\33[1;38m    ║\033[1;31m 
    ║    Facebook                 • ISHAK King ]  ║  \033[1;97m  
    ║    Github                   • \33[1;38mISHAK-MAGAR]  ║\33[1;34m   
-   ║    SCAMMER..!                •SAMARPAN JABEGU ] ║\33[1;35m 
+   ║    OWNER           •ISHAK-DON ] ║\33[1;35m 
    ║    TOOLS                    • PAID ]        ║ \33[1;32m   
    ║    VERSION                  • 9.7 ]         ║\033[1;35m 
    \033[1;97m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
